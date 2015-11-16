@@ -1,2 +1,2 @@
 # Arduino
-Telemetry
+Telemeter
